@@ -51,8 +51,6 @@ This analysis evaluates daily call volume by counting the total number of calls 
 
 <img width="691" height="368" alt="Calls per day" src="https://github.com/user-attachments/assets/35da7f14-eba7-4ab3-8b75-88bbbb719704" />
 
-
-
 **Findings:**
 - The minimum daily call volume recorded was **1,000 calls**.
 - The highest number of calls was recorded on **October 21st**, with **1,170 calls**, indicating peak service demand on that day
@@ -145,7 +143,6 @@ These variations may reflect differences in customer base size, service usage le
 
 ### 7. Customer satisfaction trends
 The analysis of customer sentiment reveals a higher proportion of negative feedback compared to positive experiences
-
 
 <img width="523" height="288" alt="Calls by sentiment" src="https://github.com/user-attachments/assets/2c259e52-fd8f-4fc0-81e5-7c178fe89f7b" />
 
