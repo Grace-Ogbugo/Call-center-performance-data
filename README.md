@@ -176,7 +176,7 @@ Based on the analysis of call center performance data, the following recommendat
 3. **Strengthen Underperforming Channels**: Channels with lower satisfaction or slower response rates should be reviewed. Process improvements and resource reallocation may help balance performance across all platforms.
 4. **Standardize Best Practices Across Locations**: High-performing locations should serve as benchmarks. Their strategies and workflows can be replicated in underperforming regions to ensure consistent service quality.
 
-## Conclusions 
+## Conclusion 
 This analysis provided a comprehensive evaluation of the call center’s operational performance and customer satisfaction trends over a one-year period. The findings highlight that response efficiency, call complexity, and channel performance are key factors influencing customer experience.
 
 By implementing data-driven improvements in staffing, response management, and service processes, the organization can enhance operational efficiency, increase customer satisfaction, and build stronger long-term customer relationships.
